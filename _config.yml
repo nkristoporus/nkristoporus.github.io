@@ -28,8 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-python
     - name: fa-angular
-  desc: I am an penultimate Information Systems student at the National University of Singapore with a genuine passion for the technology industry, particularly in software. I am eager to learn more about the space and contribute to the development of software to impact people's life.
-  My expertise lies in software engineering and full-stack web development. However, I have been learning data analytics and machine learning as well. Those areas would be a great fit for me, but I am open to other opportunities.  # Describe yourself.
+  desc: I am an penultimate Information Systems student at the National University of Singapore with a genuine passion for the technology industry, particularly in software. I am eager to learn more about the space and contribute to the development of software to impact people's life. </ br>My expertise lies in software engineering and full-stack web development. However, I have been learning data analytics and machine learning as well. Those areas would be a great fit for me, but I am open to other opportunities.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
