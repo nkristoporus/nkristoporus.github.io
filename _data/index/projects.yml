@@ -5,19 +5,19 @@
   i18n: experlife
   gh_user: ngmysamuel
   repo: ExperLifeIonic
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/experlife.jpg
   desc: ExperLife connects people who are looking for meaningful experiences with hosts across the globe.
 
 - name: FlipIt
   i18n: flipit
   gh_user: vixsonyap
   repo: lmsBackend
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/systemic-evaluation.jpg
   desc: A Learning Management System(LMS) to help tertiary eduation organizations provide a more holistic learning experience.
 
 - name: OnDmand
   i18n: ondmand
   gh_user: nkristoporus
   repo: OnDmand-Alternative
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/ondmand.jpg
   desc: OnDmand is a platform for job seekers to find short-period jobs.
