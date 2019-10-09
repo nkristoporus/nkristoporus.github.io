@@ -19,7 +19,7 @@
     detail: Visa
     i18n: company_b
   desc:
-    detail: Visa provides billions of people throughout the world access to a quick and secure payment network.\n\n Rearchitected an ETL process in a legacy system into a new system with open source technologies.\n\n Designed and developed a new flow for the process which increases the speed of the process from 5000 requests per hour to almost a million requests per hour.
+    detail: Visa provides billions of people throughout the world access to a quick and secure payment network.   Rearchitected an ETL process in a legacy system into a new system with open source technologies.  Designed and developed a new flow for the process which increases the speed of the process from 5000 requests per hour to almost a million requests per hour.
     i18n: company_b_desc
   date:
     detail: May 2019 - Aug 2019
@@ -33,7 +33,7 @@
     detail: Fairmarch
     i18n: company_c
   desc:
-    detail: Fairmarch enables social enterprises to sell their products online.\n\n Developed and maintained a personal website for Fairmarch's partner.
+    detail: Fairmarch enables social enterprises to sell their products online.  Developed and maintained a personal website for Fairmarch's partner.
     i18n: company_c_desc
   date:
     detail: May 2019 - Aug 2019
