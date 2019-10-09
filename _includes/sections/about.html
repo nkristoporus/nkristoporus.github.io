@@ -56,6 +56,14 @@
         </div>
         {% endfor %}
     </div>
+    {% if site.author.cv %}
+        <div class="row">
+            <a href="{{ site.author.cv }}" target="blank"><button class="btn-primary" style="
+                height: 30px;
+                padding-top: unset;
+                padding-bottom: unset;">Download Resume</button></a>
+        </div>
+    {% endif %}
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
             <p><span data-i18n="about_me.des">{{ site.author.desc }}</span></p>
