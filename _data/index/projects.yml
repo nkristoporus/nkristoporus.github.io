@@ -1,22 +1,23 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+- name: ExperLife
+  i18n: experlife
+  gh_user: nkristoporus
+  repo: ExperLifeIonic
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: ExperLife connects people who are looking for meaningful experiences with hosts across the globe.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: FlipIt
+  i18n: flipit
+  gh_user: nkristoporus
+  repo: lmsBackend
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: A Learning Management System(LMS) to help tertiary eduation organizations provide a more holistic learning experience.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: OnDmand
+  i18n: ondmand
+  gh_user: nkristoporus
+  repo: OnDmand-Alternative
+  img: /static/assets/img/landing/python.png
+  desc: OnDmand is a platform for job seekers to find short-period jobs.
