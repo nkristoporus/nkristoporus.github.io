@@ -3,14 +3,14 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: ExperLife
   i18n: experlife
-  gh_user: nkristoporus
+  gh_user: ngmysamuel
   repo: ExperLifeIonic
   img: /static/assets/img/landing/jekyll.png
   desc: ExperLife connects people who are looking for meaningful experiences with hosts across the globe.
 
 - name: FlipIt
   i18n: flipit
-  gh_user: nkristoporus
+  gh_user: vixsonyap
   repo: lmsBackend
   img: /static/assets/img/landing/python.png
   desc: A Learning Management System(LMS) to help tertiary eduation organizations provide a more holistic learning experience.
