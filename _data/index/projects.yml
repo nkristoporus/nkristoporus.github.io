@@ -1,17 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: WesleyCan.com
+  i18n: wesleycan
+  img: /static/assets/img/landing/wesleycanicon.png
+  desc: ExperLife connects people who are looking for meaningful experiences with hosts across the globe.
+
 - name: ExperLife
   i18n: experlife
-  gh_user: ngmysamuel
-  repo: ExperLifeIonic
+#   gh_user: ngmysamuel
+#   repo: ExperLifeIonic
   img: /static/assets/img/landing/experlife.jpg
   desc: ExperLife connects people who are looking for meaningful experiences with hosts across the globe.
 
 - name: FlipIt
   i18n: flipit
-  gh_user: vixsonyap
-  repo: lmsBackend
+#   gh_user: vixsonyap
+#   repo: lmsBackend
   img: /static/assets/img/landing/systemic-evaluation.jpg
   desc: A Learning Management System(LMS) to help tertiary eduation organizations provide a more holistic learning experience.
 
