@@ -3,6 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: WesleyCan.com
   i18n: wesleycan
+  url: http://wesleycan.com
   img: /static/assets/img/landing/wesleycanicon.png
   desc: ExperLife connects people who are looking for meaningful experiences with hosts across the globe.
 
