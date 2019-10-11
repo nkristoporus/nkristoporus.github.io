@@ -9,8 +9,8 @@
 
 - name: ExperLife
   i18n: experlife
-#   gh_user: ngmysamuel
-#   repo: ExperLifeIonic
+  gh_user: ngmysamuel
+  repo: IS3106-Group16
   img: /static/assets/img/landing/experlife.jpg
   desc: ExperLife connects people who are looking for meaningful experiences with hosts across the globe.
 
